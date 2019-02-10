@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=GumballMachine
+comment0.text=\n\ This\ GumballMachine\ class\ is\ meant\ to\ fit\ the\ requirements\ of\ 3\ different\n\ GumballMachines.\ One\ that\ takes\ only\ $0.25,\ one\ that\ takes\ $0.50,\ and\ one\n\ that\ takes\ various\ types\ of\ coins\ that\ add\ up\ to\ $0.50.\ \n\n\ @Krishnamurthy\ Thyagarajan\ (009584861)\n\ @1.0\ -\ Feb\ 8,\ 2019\n
+comment1.params=size
+comment1.target=GumballMachine(int)
+comment2.params=numGumballs\ gumballPrice\ machineType
+comment2.target=GumballMachine(int,\ int,\ int)
+comment3.params=coin
+comment3.target=void\ insertQuarter(int)
+comment4.params=
+comment4.target=void\ turnCrank()
+numComments=5
