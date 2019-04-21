@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Garland
+comment0.text=\n\ Note\:\ This\ example\ was\ taken\ from\ https\://www.baeldung.com/java-decorator-pattern\n\ All\ credit\ goes\ to\ baeldung\ for\ providing\ this\ code\ on\ their\ website\ as\ an\ example\ to\ explain\ the\ Decorator\ Pattern\n\ The\ code\ I\ have\ written\ involves\ the\ Lambda\ function\ implementation\ of\ this\ example\n
+comment1.params=tree
+comment1.target=Garland(ChristmasTree)
+comment2.params=
+comment2.target=java.lang.String\ decorate()
+comment3.params=
+comment3.target=java.lang.String\ decorateWithGarland()
+numComments=4

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ChristmasTree
+comment0.text=\n\ The\ ChristmasTree\ interface\ from\ the\ regular\ example.\ Interfaces\ are\ necessary\n\ for\ implementing\ the\ Decorator\ pattern.\ This\ interface\ will\ be\ implemented\ by\n\ a\ concrete\ version\ of\ this\ class.\n
+comment1.params=
+comment1.target=java.lang.String\ decorate()
+numComments=2

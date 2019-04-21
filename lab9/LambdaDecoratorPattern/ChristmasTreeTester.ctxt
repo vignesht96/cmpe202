@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ChristmasTreeTester
+comment0.text=\n\ This\ Tester\ class\ will\ use\ Java's\ lambda\ functions\ in\ order\ to\ print\ out\n\ the\ various\ ChristmasTree\ varieties\ without\ having\ to\ make\ separate\ class\n\ implementations\ for\ them.\ This\ saves\ a\ lot\ of\ trouble\ in\ writing\ code\ for\ \n\ these\ classes\ and\ lowers\ the\ volume\ of\ code\ for\ a\ program\ in\ general.\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ decorateTree()
+numComments=3

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ConcreteChristmasTree
+comment0.text=\n\ The\ ConcreteComponent\ implementation\ of\ the\ ChristmasTree\ interface,\ as\n\ laid\ out\ in\ the\ standard\ Decorator\ Pattern.\ We\ will\ use\ the\ deorate()\ method\n\ in\ this\ class\ combined\ with\ lambda\ to\ make\ the\ other\ variants\ of\ the\ ChristmasTree\n\ without\ having\ to\ use\ individual\ class\ implementations\ for\ them.\n
+comment1.params=
+comment1.target=java.lang.String\ decorate()
+numComments=2
